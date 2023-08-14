@@ -1,1 +1,1 @@
-# My personal website where i will put much info onto
+# My personal website where i will be putting a lot of info of myself.

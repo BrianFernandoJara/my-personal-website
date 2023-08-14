@@ -1,5 +1,6 @@
 body{
-    background: rgb(255, 255, 255);
+    background-color: aquamarine;
+    background-size: auto;
 }
 h1{
     text-align: center;
